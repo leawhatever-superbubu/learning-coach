@@ -77,7 +77,7 @@ Ingest → 你描述困惑 → AI 给你案例
 ## 小白常见问题
 
 **Q: 我没有 WorkBuddy 怎么办？**
-A: 去 https://workbuddy.com 下载。
+A: 去 https://www.codebuddy.cn/work/ 下载。
 
 **Q: 我该选哪本书开始？**
 A: 选你现在最想解决一个问题的那本书。不用追求"经典"，追求"有用"。
